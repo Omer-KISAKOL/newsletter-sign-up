@@ -69,6 +69,7 @@ h1{
     background-color: hsl(234, 29%, 20%);
     border: 0;
     color: white;
+    font-weight: 500;
 }
 
 .btn_submit:hover {
